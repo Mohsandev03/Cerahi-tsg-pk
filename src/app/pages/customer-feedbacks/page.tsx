@@ -4,14 +4,12 @@ import TopNavOne from "@/components/Header/TopNav/TopNavOne";
 import MenuOne from "@/components/Header/Menu/MenuOne";
 import Breadcrumb from "@/components/Breadcrumb/Breadcrumb";
 import Footer from "@/components/Footer/Footer";
-import LookBook from "@/components/Home1/LookBook";
 import TestimonialItem from "@/components/Testimonial/TestimonialItem";
 
 import { Swiper, SwiperSlide } from "swiper/react";
 import { Autoplay, Pagination } from "swiper/modules";
 import "swiper/css/bundle";
 
-import { TestimonialType } from "@/type/TestimonialType";
 import Instagram from "@/components/Home1/Instagram";
 import Brand from "@/components/Home1/Brand";
 import reviewData from "@/data/Testimonial.json";
@@ -19,12 +17,7 @@ import Collection from "@/components/Home1/Collection";
 import Quote from "@/components/Home1/Quote";
 import Newsletter from "@/components/Home1/Newsletter";
 
-interface Props {
-  data?: Array<TestimonialType>;
-  limit?: number;
-}
-
-const Testimonial: React.FC<Props> = ({ data = [], limit = 3 }) => {
+const CustomerFeedbacksPage = () => {
   const [activeIndex, setActiveIndex] = useState(0);
 
   const handleSlideChange = (swiper: any) => {
@@ -33,13 +26,11 @@ const Testimonial: React.FC<Props> = ({ data = [], limit = 3 }) => {
 
   return (
     <>
-      {/* ✅ Top Navbar */}
       <TopNavOne
         props="style-one bg-black"
         slogan="New customers save 10% with the code GET10"
       />
 
-      {/* ✅ Header */}
       <div id="header" className="relative w-full">
         <MenuOne props="bg-transparent" />
         <Breadcrumb
@@ -49,17 +40,14 @@ const Testimonial: React.FC<Props> = ({ data = [], limit = 3 }) => {
         />
       </div>
 
-      {/* ✅ Quote Section */}
       <Quote />
 
-      {/* ✅ Collection Section */}
       <div className="customer-feedbacks pt-10">
         <div className="container">
           <Collection />
         </div>
       </div>
 
-      {/* ✅ Testimonials Swiper */}
       <div className="customer-feedbacks pb-10">
         <div className="heading3 text-center">What People Are Saying</div>
         <div className="container pagination-mt40 md:mt-10">
@@ -86,22 +74,12 @@ const Testimonial: React.FC<Props> = ({ data = [], limit = 3 }) => {
         </div>
       </div>
 
-      {/* ✅ Lookbook Section (optional, currently empty) */}
-      <div className="py-10">
-        {/* <LookBook data={[]} start={0} limit={0} /> */}
-      </div>
-
-      {/* ✅ Newsletter */}
       <Newsletter props="bg-green mb-10" />
-
-      {/* ✅ Instagram & Brands */}
       <Instagram />
       <Brand />
-
-      {/* ✅ Footer */}
       <Footer />
     </>
   );
 };
 
-export default Testimonial;
+export default CustomerFeedbacksPage;
