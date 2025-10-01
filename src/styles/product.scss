@@ -661,3 +661,13 @@
         transform: scale(1);
     }
 }
+.featured-product.underwear .mySwiper .swiper-wrapper, .featured-product.cosmetic .mySwiper .swiper-wrapper {
+    position: absolute;
+    top: 20px;
+    left: 0px !important;
+    flex-direction: column;
+    gap: 15px !important;
+    width: -moz-fit-content;
+    width: fit-content;
+}
+
