@@ -435,14 +435,7 @@ const Default: React.FC<Props> = ({ data, productId }) => {
                 >
                   Description
                 </div>
-                <div
-                  className={`tab-item heading5 has-line-before text-secondary2 hover:text-black duration-300 ${
-                    activeTab === "specifications" ? "active" : ""
-                  }`}
-                  onClick={() => handleActiveTab("specifications")}
-                >
-                  Specifications
-                </div>
+               
 
                 <div
                   className={`tab-item heading5 has-line-before text-secondary2 hover:text-black duration-300 ${

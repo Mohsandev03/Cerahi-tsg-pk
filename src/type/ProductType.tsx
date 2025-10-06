@@ -6,6 +6,7 @@ interface Variation {
 }
 
 export interface ProductType {
+    tabs: any;
     id: string,
     category: string,
     type: string,
