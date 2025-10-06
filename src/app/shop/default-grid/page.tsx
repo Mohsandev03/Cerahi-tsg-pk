@@ -9,6 +9,9 @@ import ShopBreadCrumb1 from "@/components/Shop/ShopBreadCrumb1";
 import Instagram from "@/components/Home1/Instagram";
 import Brand from "@/components/Home1/Brand";
 import LooksSection from "@/components/Home1/LooksSection";
+import CategoryBox from "@/components/Home1/categorybox";
+import NumbersSection from "@/components/Home1/NumbersSection";
+import LooksSection2 from "@/components/Home1/LooksSection2";
 
 export default function DefaultGrid() {
   return (
@@ -22,6 +25,9 @@ export default function DefaultGrid() {
       </div>
       <ShopBreadCrumb1 />
       <LooksSection />
+      <CategoryBox />
+      <NumbersSection />
+      <LooksSection2 />
       <Instagram />
       <Brand />
       <Footer />

@@ -382,3 +382,17 @@ input[type="file"] {
     border-radius: 8px;
   }
 }
+
+span.absolute.top-3.left-3.text-xs.text-white.px-2.py-1.rounded-full.bg-orange-500 {
+      position: absolute;
+    z-index: 11;
+}
+
+.overflow-hidden.rounded-xl {
+    // background: black;
+    padding: 3px;
+    border-radius: 18px;
+    /* z-index: 0; */
+    position: relative;
+    z-index: 4;
+}

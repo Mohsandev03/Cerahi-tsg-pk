@@ -4,12 +4,11 @@ import React, { useState } from "react";
 import Image from "next/image";
 
 const LooksSection: React.FC = () => {
-  const [activeTab, setActiveTab] = useState("Active-wear"); // ✅ Default Tab
+  const [activeTab, setActiveTab] = useState("Active-wear"); 
   const [openItem, setOpenItem] = useState<number | null>(1);
 
   const tabs = ["Active-wear", "Outerwear", "Hoodies", "T-Shirt"];
 
-  // ✅ Tab-wise images
   const tabImages: Record<string, string> = {
     "Active-wear": "/images/look-model.png",
     Outerwear: "/images/outerwear-model.jpg",
@@ -17,7 +16,6 @@ const LooksSection: React.FC = () => {
     "T-Shirt": "/images/tshirt-model.png",
   };
 
-  // ✅ Tab-wise markers
   const tabMarkers: Record<
     string,
     { top: string; left: string; label: string }[]
@@ -42,7 +40,6 @@ const LooksSection: React.FC = () => {
     ],
   };
 
-  // ✅ Products Data
   const products = {
     "Active-wear": [
       {
@@ -183,12 +180,12 @@ const LooksSection: React.FC = () => {
   };
 
   return (
-    <section className="w-full py-20 bg-white">
+    <section className="w-full pt-20 pb-20 bg-white">
       <div className="container mx-auto px-6 lg:px-12">
         {/* 🔹 Top Heading Section */}
         <div className="flex flex-col lg:flex-row lg:items-end lg:justify-between mb-14">
           <div>
-           
+         
 
             <h2 className="flex flex-wrap items-center gap-6 text-3xl md:text-5xl lg:text-6xl font-bold leading-tight -mt-8 ">
               <span className="text-7xl ">the looks</span>
@@ -199,8 +196,8 @@ const LooksSection: React.FC = () => {
             </h2>
 
             <p className="text-gray-600 text-base max-w-2xl -mt-8">
-              Lorem ipsum dolor sit amet, consectetur adipiscing <br></br>elit, sed do
-              eiusmod tempor incididunt.
+              Lorem ipsum dolor sit amet, consectetur adipiscing <br />
+              elit, sed do eiusmod tempor incididunt.
             </p>
           </div>
 
@@ -212,44 +209,15 @@ const LooksSection: React.FC = () => {
           </a>
         </div>
 
+        {/* 🔹 REVERSED SECTION */}
         <div className="grid grid-cols-1 lg:grid-cols-2 gap-10 items-center">
-          {/* Left: Image with Dynamic Markers */}
-          <div className="relative">
-            <div className="overflow-hidden rounded-2xl">
-              <Image
-                src={tabImages[activeTab]} // ✅ Image changes per tab
-                alt="Model Look"
-                width={600}
-                height={600}
-                className="rounded-2xl transition-all duration-500 ease-in-out"
-              />
-            </div>
-
-            {/* ✅ Dynamic Markers */}
-            {(tabMarkers[activeTab] || []).map((marker, index) => (
-              <div
-                key={index}
-                className="group absolute"
-                style={{ top: marker.top, left: marker.left }}
-              >
-                <span className="w-6 h-6 rounded-full bg-white border-2 border-orange-500 flex items-center justify-center text-orange-500 font-bold cursor-pointer">
-                  +
-                </span>
-                <div className="hidden group-hover:flex items-center absolute left-full ml-2 bg-white px-3 py-1 rounded-full shadow-lg border border-gray-200 whitespace-nowrap">
-                  {marker.label}
-                </div>
-              </div>
-            ))}
-          </div>
-
-          {/* Right: Content */}
-          <div className="space-y-6">
+          {/* ✅ Left: Content */}
+          <div className="space-y-6 order-2 lg:order-1">
             <div className="flex items-start justify-between">
               <h2 className="text-4xl md:text-7xl font-bold leading-tight">
                 the looks <span className="text-orange-500">*</span> <br />
                 <span className="block py-2">everyone talking about</span>
               </h2>
-               
             </div>
 
             <p className="text-gray-600 text-base max-w-md">
@@ -341,6 +309,35 @@ const LooksSection: React.FC = () => {
                 )
               )}
             </div>
+          </div>
+
+          {/* ✅ Right: Image with Markers */}
+          <div className="relative order-1 lg:order-2">
+            <div className="overflow-hidden rounded-2xl">
+              <Image
+                src={tabImages[activeTab]}
+                alt="Model Look"
+                width={600}
+                height={600}
+                className="rounded-2xl transition-all duration-500 ease-in-out"
+              />
+            </div>
+
+            {/* Dynamic Markers */}
+            {(tabMarkers[activeTab] || []).map((marker, index) => (
+              <div
+                key={index}
+                className="group absolute"
+                style={{ top: marker.top, left: marker.left }}
+              >
+                <span className="w-6 h-6 rounded-full bg-white border-2 border-orange-500 flex items-center justify-center text-orange-500 font-bold cursor-pointer">
+                  +
+                </span>
+                <div className="hidden group-hover:flex items-center absolute left-full ml-2 bg-white px-3 py-1 rounded-full shadow-lg border border-gray-200 whitespace-nowrap">
+                  {marker.label}
+                </div>
+              </div>
+            ))}
           </div>
         </div>
       </div>
