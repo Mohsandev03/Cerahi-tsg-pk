@@ -2,6 +2,7 @@
 
 import React, { useState, useEffect } from "react";
 import Link from "next/link";
+import Image from "next/image";
 import * as Icon from "@phosphor-icons/react/dist/ssr";
 import { usePathname } from "next/navigation";
 import useLoginPopup from "@/store/useLoginPopup";
@@ -84,7 +85,13 @@ const MenuOne: React.FC<Props> = ({ props }) => {
                 href={"/"}
                 className="flex items-center max-lg:absolute max-lg:left-1/2 max-lg:-translate-x-1/2"
               >
-                <div className="heading4">Tsg_pk</div>
+                <Image
+                  src="/images/logo.png"  
+                  alt="Logo"
+                  width={180}
+                  height={80}
+                  className="object-contain"
+                />
               </Link>
               <div className="menu-main h-full max-lg:hidden">
                 <ul className="flex items-center gap-8 h-full">
