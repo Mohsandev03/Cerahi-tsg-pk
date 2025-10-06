@@ -1,9 +1,9 @@
 [
   {
-    "id": "4",
+    "id": "3",
     "category": "Fitness Gloves",
     "type": "Fitness Gloves",
-    "name": "Top Quality Anti Resistance Anti Slip Flexible Industrial Safety Work Gloves Product ",
+    "name": "Top Quality Anti Resistance Anti Slip Flexible Industrial Safety Work Gloves Product",
     "gender": "women",
     "new": true,
     "sale": false,
@@ -39,15 +39,73 @@
       "/images/product/Fitness Gloves/Anti VibrationResisitance Rubber Mechanic Glove/4-15.jpg",
       "/images/product/Fitness Gloves/Anti VibrationResisitance Rubber Mechanic Glove/4-16.jpg"
     ],
-    "description": "Protect your hands with Anti Vibration Resistance Rubber Mechanic Gloves offering superior grip comfort and shock absorption for tough jobs every day.",
+    "description": "Protect your hands with Anti Vibration Resistance Rubber Mechanic Gloves offering superior grip, comfort, and shock absorption for tough jobs every day.",
+    "extraSections": [
+      {
+        "title": "Description",
+        "content": [
+          {
+            "value": "Protect your hands with Anti Vibration Resistance Rubber Mechanic Gloves offering superior grip, comfort, and shock absorption for tough jobs every day.Protect your hands with Anti Vibration Resistance Rubber Mechanic Gloves offering superior grip, comfort, and shock absorption for tough jobs every day.Protect your hands with Anti Vibration Resistance Rubber Mechanic Gloves offering superior grip, comfort, and shock absorption for tough jobs every day.Protect your hands with Anti Vibration Resistance Rubber Mechanic Gloves offering superior grip, comfort, and shock absorption for tough jobs every day.Protect your hands with Anti Vibration Resistance Rubber Mechanic Gloves offering superior grip, comfort, and shock absorption for tough jobs every day.Protect your hands with Anti Vibration Resistance Rubber Mechanic Gloves offering superior grip, comfort, and shock absorption for tough jobs every day."
+          }
+        ],
+        "images": [
+          "/images/product/Fitness Gloves/Anti VibrationResisitance Rubber Mechanic Glove/4-13.jpg",
+          "/images/product/Fitness Gloves/Anti VibrationResisitance Rubber Mechanic Glove/4-13.jpg",
+          "/images/product/Fitness Gloves/Anti VibrationResisitance Rubber Mechanic Glove/4-13.jpg"
+        ],
+        "testimonials": [
+          {
+            "name": "Ayesha Khan",
+            "comment": "These gloves give excellent grip during workouts. I use them daily and they still look new!",
+            "rating": 5
+          },
+          {
+            "name": "Sara Malik",
+            "comment": "Comfortable and durable. I recommend them for both gym and mechanical work.",
+            "rating": 4
+          },
+          {
+            "name": "Ali Raza",
+            "comment": "Best quality gloves! Super comfortable and long-lasting.",
+            "rating": 5
+          },
+          {
+            "name": "Fatima Noor",
+            "comment": "Really reduces hand fatigue. A must-have for long sessions.",
+            "rating": 5
+          },
+          {
+            "name": "Hassan Iqbal",
+            "comment": "Solid grip, breathable, and excellent protection.",
+            "rating": 6
+          }
+        ]
+      }
+    ],
     "action": "quick shop",
     "slug": "Anti Vibration/Resisitance Rubber Mechanic Glove"
-  },
-  {
-    "id": "7",
-    "category": "Working Gloves",
-    "type": "Working Gloves",
-    "name": " New Leather Chauffeur Driving Gloves Fashion Black Smart Glove",
+},
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+{
+"id": "7",
+  "category": "Working Gloves",
+  "type": "Working Gloves",
+  "name": " New Leather Chauffeur Driving Gloves Fashion Black Smart Glove",
     "gender": "women",
     "new": false,
     "sale": true,
