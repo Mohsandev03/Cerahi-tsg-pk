@@ -7,7 +7,7 @@ import React from "react";
 const Banner = () => {
   return (
     <div className="container mx-auto px-4 md:px-8">
-      <div className="banner-block style-one grid sm:grid-cols-3 gap-8 pb-10">
+      <div className="banner-block style-one grid sm:grid-cols-3 gap-8 pb-10 rounded-[20px]">
         <Link
           href={"/shop/breadcrumb-img"}
           className="banner-item relative block overflow-hidden duration-500"
@@ -16,13 +16,13 @@ const Banner = () => {
             <Image
               src={"/images/banner/Sports-Bags.png"}
               width={2000}
-              height={1300}
+              height={300}
               alt="banner1"
               priority={true}
               className="duration-1000"
             />
           </div>
-          <div className="banner-content absolute top-0 left-0 w-full h-full flex flex-col items-start justify-end px-4 pb-6">
+          <div className="banner-content absolute bottom-0  flex flex-col items-start justify-end px-4 pb-6">
             <div className="heading2 text-white text-[30px] leading-[32px] font-semibold capitalize">
               Sports Bags
             </div>
@@ -39,13 +39,13 @@ const Banner = () => {
             <Image
               src={"/images/banner/Sports-Gloves.png"}
               width={2000}
-              height={1300}
+              height={400}
               alt="Sports gloves"
               priority={true}
               className="duration-1000"
             />
           </div>
-          <div className="banner-content absolute top-0 left-0 w-full h-full flex flex-col items-start justify-end px-4 pb-6">
+          <div className="banner-content absolute bottom-0 left-0  flex flex-col items-start justify-end px-4 pb-6">
             <div className="heading2 text-white text-[30px] leading-[32px] font-semibold capitalize">
               Sports Gloves
             </div>
@@ -62,13 +62,13 @@ const Banner = () => {
             <Image
               src={"/images/banner/sports-caps.png"}
               width={2000}
-              height={1300}
+              height={400}
               alt="banner3"
               priority={true}
               className="duration-1000"
             />
           </div>
-          <div className="banner-content absolute top-0 left-0 w-full h-full flex flex-col items-start justify-end px-4 pb-6">
+          <div className="banner-content absolute bottom-0 left-0   flex flex-col items-start justify-end px-4 pb-6">
             <div className="heading2 text-white text-[30px] leading-[32px] font-semibold capitalize">
               Sports Caps
             </div>
