@@ -138,7 +138,7 @@ const Product: React.FC<ProductProps> = ({ data, type }) => {
                                     <Icon.CheckCircle size={20} className='checked-icon' />
                                 </div>
                             </div>
-                            <div className="product-img w-full h-full aspect-[3/4]">
+                            <div className="product-img w-full h-full aspect-[4/4]">
                                 {activeColor ? (
                                     <>
                                         {
@@ -361,7 +361,7 @@ const Product: React.FC<ProductProps> = ({ data, type }) => {
                                                 Sale
                                             </div>
                                         )}
-                                        <div className="product-img w-full aspect-[3/4] rounded-2xl overflow-hidden">
+                                        <div className="product-img w-full aspect-[2/4] rounded-2xl overflow-hidden">
                                             {data.thumbImage.map((img, index) => (
                                                 <Image
                                                     key={index}
