@@ -1,54 +1,58 @@
 "use client";
 
 import React from "react";
-// import TopNavThree from "@/components/Header/TopNav/TopNavThree";
-//  import SliderThree from "@/components/Slider/SliderThree";
+import { useSearchParams } from "next/navigation";
 import TopNavOne from "@/components/Header/TopNav/TopNavOne";
 import MenuOne from "@/components/Header/Menu/MenuOne";
-// import Breadcrumb from "@/components/Breadcrumb/Breadcrumb";
-//  import TrendingProduct from "@/components/Home1/TrendingProduct";
+import CategoryBreadCrumb1 from "@/components/Shop/capsBreadCrumb1";
 import productData from "@/data/Product.json";
-// import Collection from "@/components/Home1/Collection";
-// import SliderToysKid from "@/components/Slider/SliderToysKid";
-// import TrendingNow from '@/components/Home11/TrendingNow'
+import Footer from "@/components/Footer/Footer";
+import ActiveWearBanner from "@/components/Home1/activewearbanner";
+import Testimonial from "@/components/Home1/Testimonial";
+import testimonialData from "@/data/Testimonial.json";
+import Banner3 from "@/components/Home1/Banner3";
+import CapsPopularCategories from "@/components/Home1/capspapularcategories";
+import Capsbanner from "@/components/Home1/capsbanner";
+import Brand from "@/components/Home1/Brand";
 import Instagram from "@/components/Home1/Instagram";
 
-import Benefit from "@/components/Home1/Benefit";
-// import FlashSale from "@/components/Home1/FlashSale";
-// import blogData from "@/data/Blog.json";
-// import NewsInsight from "@/components/Home1/NewsInsight";
-import Brand from "@/components/Home1/Brand";
-import Footer from "@/components/Footer/Footer";
-import ModalNewsletter from "@/components/Modal/ModalNewsletter";
-export default function HomeThree() {
+export default function DefaultGrid() {
+  const searchParams = useSearchParams();
+  let type = searchParams.get("type");
+  let gender = searchParams.get("gender");
+  let category = searchParams.get("category");
+
   return (
     <>
       <TopNavOne
-        props="style-one bg-black"
+        props="style-one  bg-black"
         slogan="New customers save 10% with the code GET10"
       />
       <div id="header" className="relative w-full">
         <MenuOne props="bg-transparent" />
-        {/* <Breadcrumb heading='' subHeading='About Us' /> */}
-
-        {/* <TopNavThree props="style-three bg-white" /> */}
-
-        {/* <MenuTwo /> */}
-        {/* <BannerTop props="bg-black py-3" textColor='text-white' bgLine='bg-white' /> */}
-
-        {/* <SliderThree /> */}
       </div>
-      {/* <SliderToysKid /> */}
-      {/* <TrendingNow   /> */}
-      {/* <TrendingProduct data={productData} start={10} limit={18} /> */}
-      {/* <Collection props="md:pt-20 pt-10" /> */}
-      {/* <FlashSale /> */}
-      {/* <NewsInsight data={blogData} start={0} limit={3} /> */}
-      <Benefit props="md:mt-20 mt-10 py-10 px-2.5 bg-surface rounded-3xl" />
+      <ActiveWearBanner />
+      <CategoryBreadCrumb1
+        data={productData.map((item: any) => ({
+          tabs: [],
+          ...item,
+        }))}
+        productPerPage={8}
+        dataType={type}
+        gender={gender}
+        category={category}
+      />
+      <Capsbanner />
+
+      <CapsPopularCategories />
+
+      <Banner3 />
+      <Testimonial data={testimonialData} limit={6} />
       <Instagram />
       <Brand />
+
+ 
       <Footer />
-      <ModalNewsletter />
     </>
   );
 }
