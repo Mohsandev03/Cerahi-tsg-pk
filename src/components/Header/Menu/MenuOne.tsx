@@ -123,9 +123,9 @@ const MenuOne: React.FC<Props> = ({ props }) => {
                                   <li>
                                     <a
                                       className="drop-li"
-                                      href="  /categories/active-wear"
+                                      href="  /categories/boxing-focusing-pads"
                                     >
-                                      Active Wear
+                                      Boxing Focusing Pads
                                     </a>
                                   </li>
                                 </ul>
@@ -157,10 +157,10 @@ const MenuOne: React.FC<Props> = ({ props }) => {
                                   <li>
                                     <a
                                       className="drop-li"
-                                      href="  /categories/hunting-gear"
+                                      href="  /categories/boxing-uniform"
                                     >
                                       {" "}
-                                      Hunting Gear
+                                      Boxing Uniform
                                     </a>
                                   </li>
                                 </ul>
@@ -195,10 +195,10 @@ const MenuOne: React.FC<Props> = ({ props }) => {
                                   <li>
                                     <a
                                       className="drop-li"
-                                      href="  /categories/leather-jackets"
+                                      href="  /categories/caps"
                                     >
                                       {" "}
-                                      Leather Jackets
+                                      Caps
                                     </a>
                                   </li>
                                 </ul>
@@ -233,9 +233,9 @@ const MenuOne: React.FC<Props> = ({ props }) => {
                                   <li>
                                     <a
                                       className="drop-li"
-                                      href="  /categories/sports-bags"
+                                      href="  /categories/champion-belts"
                                     >
-                                      Sports Bags
+                                      Champion Belts
                                     </a>
                                   </li>
                                 </ul>
@@ -266,9 +266,9 @@ const MenuOne: React.FC<Props> = ({ props }) => {
                                   <li>
                                     <a
                                       className="drop-li"
-                                      href="  /categories/sports-bike-gear"
+                                      href="  /categories/chest-guard"
                                     >
-                                      Bike Gear
+                                  Chest Guard
                                     </a>
                                   </li>
                                 </ul>
