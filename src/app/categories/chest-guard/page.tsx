@@ -4,7 +4,7 @@ import React from "react";
 import { useSearchParams } from "next/navigation";
 import TopNavOne from "@/components/Header/TopNav/TopNavOne";
 import MenuOne from "@/components/Header/Menu/MenuOne";
-import CategoryBreadCrumb1 from "@/components/Shop/capsBreadCrumb1";
+import CategoryBreadCrumb1 from "@/components/Shop/ChestGuardBreadCrumb";
 import productData from "@/data/Product.json";
 import Footer from "@/components/Footer/Footer";
 import ActiveWearBanner from "@/components/Home1/activewearbanner";

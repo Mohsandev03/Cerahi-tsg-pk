@@ -36,7 +36,7 @@ const ShopBreadCrumb1: React.FC<Props> = ({
   // ✅ Filter only "caps"
   let filteredData = data.filter(
     (product) =>
-      product.category?.toLowerCase() === "caps" &&
+      product.category?.toLowerCase() === "chest guard" &&
       (!showOnlySale || product.sale) &&
       (!gender || product.gender === gender) &&
       (!dataType || product.type === dataType)
