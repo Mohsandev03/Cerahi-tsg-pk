@@ -434,7 +434,41 @@ const MenuOne: React.FC<Props> = ({ props }) => {
                                 </li>
                               </ul>
                             </div>
+    <div className="nav-item">
+                              <div className="text-button-uppercase pb-2">
+                                <ul>
+                                  <li>
+                                    <a
+                                      className="drop-li"
+                                      href="  /categories/fitness-gloves"
+                                    >
+                                      Fitness Gloves
+                                    </a>
+                                  </li>
+                                </ul>
+                              </div>
 
+                              <ul>
+                                <li>
+                                  <div
+                                    onClick={() => handleTypeClick("lighting")}
+                                    className={`link text-secondary duration-300 cursor-pointer`}
+                                  >
+                                    Lighting | Bed Room
+                                  </div>
+                                </li>
+                                <li>
+                                  <div
+                                    onClick={() =>
+                                      handleCategoryClick("furniture")
+                                    }
+                                    className={`link text-secondary duration-300 view-all-btn`}
+                                  >
+                                    View All
+                                  </div>
+                                </li>
+                              </ul>
+                            </div>
                             <div className="nav-item">
                               <div className="text-button-uppercase pb-2">
                                 <ul>
