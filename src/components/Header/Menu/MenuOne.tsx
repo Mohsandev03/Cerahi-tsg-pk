@@ -334,9 +334,9 @@ const MenuOne: React.FC<Props> = ({ props }) => {
                                   <li>
                                     <a
                                       className="drop-li"
-                                      href="  /categories/sports-gloves"
+                                      href="  /categories/winter-gloves"
                                     >
-                                      Sports Gloves
+                                      Winter Gloves
                                     </a>
                                   </li>
                                 </ul>
