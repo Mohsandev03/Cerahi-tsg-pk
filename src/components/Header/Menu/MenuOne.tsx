@@ -86,7 +86,7 @@ const MenuOne: React.FC<Props> = ({ props }) => {
                 className="flex items-center max-lg:absolute max-lg:left-1/2 max-lg:-translate-x-1/2"
               >
                 <Image
-                  src="/images/logo.png"  
+                  src="/images/logo.png"
                   alt="Logo"
                   width={180}
                   height={80}
@@ -268,7 +268,7 @@ const MenuOne: React.FC<Props> = ({ props }) => {
                                       className="drop-li"
                                       href="  /categories/chest-guard"
                                     >
-                                  Chest Guard
+                                      Chest Guard
                                     </a>
                                   </li>
                                 </ul>
@@ -337,6 +337,77 @@ const MenuOne: React.FC<Props> = ({ props }) => {
                                       href="  /categories/winter-gloves"
                                     >
                                       Winter Gloves
+                                    </a>
+                                  </li>
+                                </ul>
+                              </div>
+
+                              <ul>
+                                <li>
+                                  <div
+                                    onClick={() => handleTypeClick("lighting")}
+                                    className={`link text-secondary duration-300 cursor-pointer`}
+                                  >
+                                    Lighting | Bed Room
+                                  </div>
+                                </li>
+                                <li>
+                                  <div
+                                    onClick={() =>
+                                      handleCategoryClick("furniture")
+                                    }
+                                    className={`link text-secondary duration-300 view-all-btn`}
+                                  >
+                                    View All
+                                  </div>
+                                </li>
+                              </ul>
+                            </div>
+                            <div className="nav-item">
+                              <div className="text-button-uppercase pb-2">
+                                <ul>
+                                  <li>
+                                    <a
+                                      className="drop-li"
+                                      href="  /categories/tactical-gloves"
+                                    >
+                                      Tactical Gloves
+                                    </a>
+                                  </li>
+                                </ul>
+                              </div>
+
+                              <ul>
+                                <li>
+                                  <div
+                                    onClick={() => handleTypeClick("lighting")}
+                                    className={`link text-secondary duration-300 cursor-pointer`}
+                                  >
+                                    Lighting | Bed Room
+                                  </div>
+                                </li>
+                                <li>
+                                  <div
+                                    onClick={() =>
+                                      handleCategoryClick("furniture")
+                                    }
+                                    className={`link text-secondary duration-300 view-all-btn`}
+                                  >
+                                    View All
+                                  </div>
+                                </li>
+                              </ul>
+                            </div>
+
+                            <div className="nav-item">
+                              <div className="text-button-uppercase pb-2">
+                                <ul>
+                                  <li>
+                                    <a
+                                      className="drop-li"
+                                      href="  /categories/gardening-gloves"
+                                    >
+                                      Gardening Gloves
                                     </a>
                                   </li>
                                 </ul>
