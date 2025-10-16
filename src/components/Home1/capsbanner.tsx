@@ -9,7 +9,7 @@ const Banner = () => {
     <section className="relative container h-[300px] rounded-[20px] mt-20 flex items-center overflow-hidden rounded-[20px]">
       {/* 🔹 Background Image */}
       <Image
-        src="/images/banner/banner-4.png" // 👉 Replace with your background image
+        src="/images/banner/3banner.png" // 👉 Replace with your background image
         alt="Apple Service Background"
         fill
         priority
