@@ -505,7 +505,7 @@ const MenuOne: React.FC<Props> = ({ props }) => {
                               </ul>
                             </div>
 
-  <div className="nav-item">
+                            <div className="nav-item">
                               <div className="text-button-uppercase pb-2">
                                 <ul>
                                   <li>
@@ -513,7 +513,7 @@ const MenuOne: React.FC<Props> = ({ props }) => {
                                       className="drop-li"
                                       href="  /categories/police-military-gloves"
                                     >
-                                  Police Military Gloves
+                                      Police Military Gloves
                                     </a>
                                   </li>
                                 </ul>
@@ -541,8 +541,76 @@ const MenuOne: React.FC<Props> = ({ props }) => {
                               </ul>
                             </div>
 
-
-
+                            <div className="nav-item">
+                              <div className="text-button-uppercase pb-2">
+                                <ul>
+                                  <li>
+                                    <a
+                                      className="drop-li"
+                                      href="  /categories/punching-paddle"
+                                    >
+                                      Punching Paddle
+                                    </a>
+                                  </li>
+                                </ul>
+                              </div>
+                              <div className="text-button-uppercase pb-2"></div>
+                              <ul>
+                                <li>
+                                  <div
+                                    onClick={() => handleTypeClick("lighting")}
+                                    className={`link text-secondary duration-300 cursor-pointer`}
+                                  >
+                                    Lighting | Bed Room
+                                  </div>
+                                </li>
+                                <li>
+                                  <div
+                                    onClick={() =>
+                                      handleCategoryClick("furniture")
+                                    }
+                                    className={`link text-secondary duration-300 view-all-btn`}
+                                  >
+                                    View All
+                                  </div>
+                                </li>
+                              </ul>
+                            </div>
+  <div className="nav-item">
+                              <div className="text-button-uppercase pb-2">
+                                <ul>
+                                  <li>
+                                    <a
+                                      className="drop-li"
+                                      href="  /categories/punching-bags"
+                                    >
+                                      Punching Bags
+                                    </a>
+                                  </li>
+                                </ul>
+                              </div>
+                              <div className="text-button-uppercase pb-2"></div>
+                              <ul>
+                                <li>
+                                  <div
+                                    onClick={() => handleTypeClick("lighting")}
+                                    className={`link text-secondary duration-300 cursor-pointer`}
+                                  >
+                                    Lighting | Bed Room
+                                  </div>
+                                </li>
+                                <li>
+                                  <div
+                                    onClick={() =>
+                                      handleCategoryClick("furniture")
+                                    }
+                                    className={`link text-secondary duration-300 view-all-btn`}
+                                  >
+                                    View All
+                                  </div>
+                                </li>
+                              </ul>
+                            </div>
                             <div className="nav-item">
                               <div className="text-button-uppercase pb-2">
                                 <ul>
