@@ -67,7 +67,9 @@ const Wishlist = () => {
             images: [],
             description: 'no-data',
             action: 'no-data',
-            slug: 'no-data'
+            slug: 'no-data',
+            extraSections: false,
+            tabs: undefined
         }];
     }
 
