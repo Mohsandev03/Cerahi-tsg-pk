@@ -4,15 +4,15 @@ import React from "react";
 import { useSearchParams } from "next/navigation";
 import TopNavOne from "@/components/Header/TopNav/TopNavOne";
 import MenuOne from "@/components/Header/Menu/MenuOne";
-import CategoryBreadCrumb1 from "@/components/Shop/BoxingGlovesBreadcrumb";
+import CategoryBreadCrumb1 from "@/components/Shop/BoxingUniformBreadcrumb";
 import productData from "@/data/Product.json";
 import Footer from "@/components/Footer/Footer";
-import ActiveWearBanner from "@/components/Slider/BoxingGlovesSlider";
+import ActiveWearBanner from "@/components/Slider/BoxinguniformSlider";
 import Testimonial from "@/components/Home1/Testimonial";
 import testimonialData from "@/data/Testimonial.json";
 import Banner3 from "@/components/Home1/Banner3";
 import CapsPopularCategories from "@/components/Home1/capspapularcategories";
-import BoxingGlovesbanner from "@/components/Banners/BoxingGlovesbanner";
+import Boxinguniformbanner from "@/components/Banners/Boxinguniformbanner";
 import Brand from "@/components/Home1/Brand";
 import Instagram from "@/components/Home1/Instagram";
 
@@ -42,7 +42,7 @@ export default function DefaultGrid() {
         gender={gender}
         category={category}
       />
-      <BoxingGlovesbanner />
+      <Boxinguniformbanner />
 
       <CapsPopularCategories />
 
@@ -51,6 +51,7 @@ export default function DefaultGrid() {
       <Instagram />
       <Brand />
 
+ 
       <Footer />
     </>
   );
