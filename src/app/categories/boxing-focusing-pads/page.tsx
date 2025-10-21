@@ -7,12 +7,12 @@ import MenuOne from "@/components/Header/Menu/MenuOne";
 import CategoryBreadCrumb1 from "@/components/Shop/BoxingFocusingPadsBreadcrumb";
 import productData from "@/data/Product.json";
 import Footer from "@/components/Footer/Footer";
-import ActiveWearBanner from "@/components/Home1/activewearbanner";
+import ActiveWearBanner from "@/components/Slider/BoxingFocusingPadsSlider";
 import Testimonial from "@/components/Home1/Testimonial";
 import testimonialData from "@/data/Testimonial.json";
 import Banner3 from "@/components/Home1/Banner3";
 import CapsPopularCategories from "@/components/Home1/capspapularcategories";
-import Capsbanner from "@/components/Home1/capsbanner";
+import BoxingFocusingPadsbanner from "@/components/Banners/BoxingFocusingPadsbanner";
 import Brand from "@/components/Home1/Brand";
 import Instagram from "@/components/Home1/Instagram";
 
@@ -42,7 +42,7 @@ export default function DefaultGrid() {
         gender={gender}
         category={category}
       />
-      <Capsbanner />
+      <BoxingFocusingPadsbanner />
 
       <CapsPopularCategories />
 
@@ -51,7 +51,6 @@ export default function DefaultGrid() {
       <Instagram />
       <Brand />
 
- 
       <Footer />
     </>
   );
