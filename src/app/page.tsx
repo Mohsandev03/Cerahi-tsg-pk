@@ -14,7 +14,8 @@ import Instagram from "@/components/Home1/Instagram";
 import Brand from "@/components/Home1/Brand";
 import Footer from "@/components/Footer/Footer";
 import Categories from "@/components/Home1/Categories";
-import LookBook from "@/components/Home1/LookBook";
+import Eslider from "@/components/Home1/E-slider";
+import Cslider from "@/components/Home1/C-slider";
 // import TabFeatures2 from "@/components/Home1/TabFeatures2";
 import SliderSix from "@/components/Slider/SliderSix";
 import Banner3 from "@/components/Home1/Banner3";
@@ -33,28 +34,30 @@ export default function Home() {
       <div id="header" className="relative w-full">
         <MenuOne props="bg-transparent" />
         <SliderOne />
-        <Banner />
-      </div>
-      <Collection2 />
-      <div className="pt-10">
+        <Eslider />
+        <Cslider />
+          {/* <Banner /> */}
+       </div>
+      {/* <Collection2 /> */}
+      {/* <div className="pt-10">
         <Banner4 />
-      </div>
+      </div> */}
 
       {/* <Categories data={undefined} /> */}
       {/* <LookBook  /> */}
-      <div className="py-10">
+      {/* <div className="py-10">
         <TabFeatures data={productData} start={0} limit={3} />
-      </div>
+      </div> */}
       <div></div>
       <div className="py-10">
-        <Banner3 />
+        {/* <Banner3 /> */}
       </div>
       {/* <TabFeatures2 data={productData} start={0} limit={6} /> */}
-      <WhyChooseUs />
-      <Testimonial data={testimonialData} limit={6} />
-      <Benefit props="md:py-20 " />
-      <Instagram />
-      <Brand />
+      {/* <WhyChooseUs /> */}
+      {/* <Testimonial data={testimonialData} limit={6} /> */}
+      {/* <Benefit props="md:py-20 " /> */}
+      {/* <Instagram /> */}
+      {/* <Brand /> */}
       <Footer />
       {/* <ModalNewsletter /> */}
     </>
