@@ -248,7 +248,7 @@
   },
   {
     "id": "6",
-    "category": "Working Gloves",
+    "category": "working gloves",
     "type": "Working Gloves",
     "name": "Unisex Multipurpose Safety Cowhide Double Leather Gloves Palm Protection Cut Proof Working Gloves",
     "gender": "women",
@@ -328,7 +328,7 @@
   },
   {
     "id": "7",
-    "category": "Working Gloves",
+    "category": "working gloves",
     "type": "Working Gloves",
     "name": " New Leather Chauffeur Driving Gloves Fashion Black Smart Glove",
     "gender": "women",
@@ -420,7 +420,7 @@
   },
   {
     "id": "8",
-    "category": "Working Gloves",
+    "category": "working gloves",
     "type": "Working Gloves",
     "name": "Labour Scratch Protection Appliance Oxford Printed Gardening  Working Gloves Outdoor Protective Glove",
     "gender": "women",
@@ -510,341 +510,10 @@
     "action": "add to cart",
     "slug": "Multipurpose Scratch/Thorn Resistant Work Glove"
   },
-  {
-    "id": "9",
-    "category": "Police / Military gloves",
-    "type": "Police / Military gloves",
-    "name": "Buy sheepskin Leather hunting Gloves elastic wrist Mittens For Men Women top quality driving glove",
-    "gender": "women",
-    "new": true,
-    "sale": false,
-    "rate": 4,
-    "price": 35,
-    "originPrice": 45,
-    "brand": "gucci",
-    "sold": 12,
-    "quantity": 100,
-    "quantityPurchase": 1,
-    "sizes": ["S", "M", "L", "XL"],
-    "variation": [
-      {
-        "color": "black",
-        "colorCode": "#000",
-        "colorImage": "/images/product/Police  Military gloves/Goat Leather Palm & Back, Elastic Wrist/9-37.jpg",
-        "image": "/images/product/Police  Military gloves/Goat Leather Palm & Back, Elastic Wrist/9-38.jpg"
-      }
-    ],
-    "thumbImage": [
-      "/images/product/Police  Military gloves/Goat Leather Palm & Back, Elastic Wrist/9-37.jpg",
-      "/images/product/Police  Military gloves/Goat Leather Palm & Back, Elastic Wrist/9-38.jpg"
-    ],
-    "images": [
-      "/images/product/Police  Military gloves/Goat Leather Palm & Back, Elastic Wrist/9-37.jpg",
-      "/images/product/Police  Military gloves/Goat Leather Palm & Back, Elastic Wrist/9-38.jpg",
-      "/images/product/Police  Military gloves/Goat Leather Palm & Back, Elastic Wrist/9-39.jpg",
-      "/images/product/Police  Military gloves/Goat Leather Palm & Back, Elastic Wrist/9-40.jpg"
-    ],
-    "description": "Enjoy ultimate comfort and durability with Goat Leather Palm and Back Gloves featuring a flexible elastic wrist for a secure fit during any tough task.",
-     "extraSections": [
-      {
-        "title": "Description",
-        "content": [
-          {
-            "value": "Protect your hands with Anti Vibration Resistance Rubber Mechanic Gloves offering superior grip, comfort, and shock absorption for tough jobs every day.Protect your hands with Anti Vibration Resistance Rubber Mechanic Gloves offering superior grip, comfort, and shock absorption for tough jobs every day.Protect your hands with Anti Vibration Resistance Rubber Mechanic Gloves offering superior grip, comfort, and shock absorption for tough jobs every day.Protect your hands with Anti Vibration Resistance Rubber Mechanic Gloves offering superior grip, comfort, and shock absorption for tough jobs every day.Protect your hands with Anti Vibration Resistance Rubber Mechanic Gloves offering superior grip, comfort, and shock absorption for tough jobs every day.Protect your hands with Anti Vibration Resistance Rubber Mechanic Gloves offering superior grip, comfort, and shock absorption for tough jobs every day."
-          }
-        ],
-        "images": [
-          "/images/product/Police  Military gloves/Goat Leather Palm & Back, Elastic Wrist/9-38.jpg",
-      "/images/product/Police  Military gloves/Goat Leather Palm & Back, Elastic Wrist/9-39.jpg",
-      "/images/product/Police  Military gloves/Goat Leather Palm & Back, Elastic Wrist/9-40.jpg"
-        ],
-        "testimonials": [
-          {
-            "name": "Ayesha Khan",
-            "comment": "These gloves give excellent grip during workouts. I use them daily and they still look new!",
-            "rating": 5
-          },
-          {
-            "name": "Sara Malik",
-            "comment": "Comfortable and durable. I recommend them for both gym and mechanical work.",
-            "rating": 4
-          },
-          {
-            "name": "Ali Raza",
-            "comment": "Best quality gloves! Super comfortable and long-lasting.",
-            "rating": 5
-          },
-          {
-            "name": "Fatima Noor",
-            "comment": "Really reduces hand fatigue. A must-have for long sessions.",
-            "rating": 5
-          },
-          {
-            "name": "Hassan Iqbal",
-            "comment": "Solid grip, breathable, and excellent protection.",
-            "rating": 6
-          }
-        ]
-      }
-    ],
-    "action": "quick shop",
-    "slug": "Goat Leather Palm & Back, Elastic Wrist."
-  },
-  {
-    "id": "10",
-    "category": "Police / Military gloves",
-    "type": "Police / Military gloves",
-    "name": "Hot selling Men hunting police searching black cowhide leather driving gloves elasticized",
-    "gender": "women",
-    "new": true,
-    "sale": false,
-    "rate": 5,
-    "price": 28,
-    "originPrice": 36,
-    "brand": "hermes",
-    "sold": 12,
-    "quantity": 200,
-    "quantityPurchase": 1,
-    "sizes": ["XS", "S", "M", "L", "XL", "2XL"],
-    "variation": [
-      {
-        "color": "black",
-        "colorCode": "#000",
-        "colorImage": "/images/product/Police  Military gloves/LawPro Leather Gloves/10-41.jpg",
-        "image": "/images/product/Police  Military gloves/LawPro Leather Gloves/10-41.jpg"
-      }
-    ],
-    "thumbImage": [
-      "/images/product/Police  Military gloves/LawPro Leather Gloves/10-41.jpg",
-      "/images/product/Police  Military gloves/LawPro Leather Gloves/10-44.jpg"
-    ],
-    "images": [
-      "/images/product/Police  Military gloves/LawPro Leather Gloves/10-41.jpg",
-      "/images/product/Police  Military gloves/LawPro Leather Gloves/10-42.jpg",
-      "/images/product/Police  Military gloves/LawPro Leather Gloves/10-43.jpg",
-      "/images/product/Police  Military gloves/LawPro Leather Gloves/10-44.jpg"
-    ],
-    "description": "Experience premium protection and lasting comfort with LawPro Leather Gloves designed to deliver strength and flexibility for every hardworking hand.",
-     "extraSections": [
-      {
-        "title": "Description",
-        "content": [
-          {
-            "value": "Protect your hands with Anti Vibration Resistance Rubber Mechanic Gloves offering superior grip, comfort, and shock absorption for tough jobs every day.Protect your hands with Anti Vibration Resistance Rubber Mechanic Gloves offering superior grip, comfort, and shock absorption for tough jobs every day.Protect your hands with Anti Vibration Resistance Rubber Mechanic Gloves offering superior grip, comfort, and shock absorption for tough jobs every day.Protect your hands with Anti Vibration Resistance Rubber Mechanic Gloves offering superior grip, comfort, and shock absorption for tough jobs every day.Protect your hands with Anti Vibration Resistance Rubber Mechanic Gloves offering superior grip, comfort, and shock absorption for tough jobs every day.Protect your hands with Anti Vibration Resistance Rubber Mechanic Gloves offering superior grip, comfort, and shock absorption for tough jobs every day."
-          }
-        ],
-        "images": [
-       "/images/product/Police  Military gloves/LawPro Leather Gloves/10-42.jpg",
-      "/images/product/Police  Military gloves/LawPro Leather Gloves/10-43.jpg",
-      "/images/product/Police  Military gloves/LawPro Leather Gloves/10-44.jpg"
-        ],
-        "testimonials": [
-          {
-            "name": "Ayesha Khan",
-            "comment": "These gloves give excellent grip during workouts. I use them daily and they still look new!",
-            "rating": 5
-          },
-          {
-            "name": "Sara Malik",
-            "comment": "Comfortable and durable. I recommend them for both gym and mechanical work.",
-            "rating": 4
-          },
-          {
-            "name": "Ali Raza",
-            "comment": "Best quality gloves! Super comfortable and long-lasting.",
-            "rating": 5
-          },
-          {
-            "name": "Fatima Noor",
-            "comment": "Really reduces hand fatigue. A must-have for long sessions.",
-            "rating": 5
-          },
-          {
-            "name": "Hassan Iqbal",
-            "comment": "Solid grip, breathable, and excellent protection.",
-            "rating": 6
-          }
-        ]
-      }
-    ],
-    "action": "quick shop",
-    "slug": "LawPro Leather Gloves"
-  },
-  {
-    "id": "11",
-    "category": "Police / Military gloves",
-    "type": "Police / Military gloves",
-    "name": "Law enforcement Tactical Gloves For Security top quality police gloves with protection",
-    "gender": "women",
-    "new": false,
-    "sale": true,
-    "rate": 4,
-    "price": 32,
-    "originPrice": 40,
-    "brand": "zara",
-    "sold": 14,
-    "quantity": 80,
-    "quantityPurchase": 1,
-    "sizes": ["freesize"],
-    "variation": [
-      {
-        "color": "brown",
-        "colorCode": "#964000",
-        "colorImage": "/images/product/Police  Military gloves/POLICE GLOVES/11-45.jpg",
-        "image": "/images/product/Police  Military gloves/POLICE GLOVES/11-45.jpg"
-      },
-      {
-        "color": "white",
-        "colorCode": "#F6EFDD",
-        "colorImage": "/images/product/Police  Military gloves/POLICE GLOVES/11-46.jpg",
-        "image": "/images/product/Police  Military gloves/POLICE GLOVES/11-46.jpg"
-      }
-    ],
-    "thumbImage": [
-      "/images/product/Police  Military gloves/POLICE GLOVES/11-45.jpg",
-      "/images/product/Police  Military gloves/POLICE GLOVES/11-47.jpg"
-    ],
-    "images": [
-      "/images/product/Police  Military gloves/POLICE GLOVES/11-45.jpg",
-      "/images/product/Police  Military gloves/POLICE GLOVES/11-46.jpg",
-      "/images/product/Police  Military gloves/POLICE GLOVES/11-47.jpg",
-      "/images/product/Police  Military gloves/POLICE GLOVES/11-48.jpg"
-    ],
-    "description": "Stay protected and agile with Law Enforcement Tactical Gloves designed for security professionals. Top quality Police Gloves built for durability and comfort.",
-     "extraSections": [
-      {
-        "title": "Description",
-        "content": [
-          {
-            "value": "Protect your hands with Anti Vibration Resistance Rubber Mechanic Gloves offering superior grip, comfort, and shock absorption for tough jobs every day.Protect your hands with Anti Vibration Resistance Rubber Mechanic Gloves offering superior grip, comfort, and shock absorption for tough jobs every day.Protect your hands with Anti Vibration Resistance Rubber Mechanic Gloves offering superior grip, comfort, and shock absorption for tough jobs every day.Protect your hands with Anti Vibration Resistance Rubber Mechanic Gloves offering superior grip, comfort, and shock absorption for tough jobs every day.Protect your hands with Anti Vibration Resistance Rubber Mechanic Gloves offering superior grip, comfort, and shock absorption for tough jobs every day.Protect your hands with Anti Vibration Resistance Rubber Mechanic Gloves offering superior grip, comfort, and shock absorption for tough jobs every day."
-          }
-        ],
-        "images": [
-           "/images/product/Police  Military gloves/POLICE GLOVES/11-46.jpg",
-      "/images/product/Police  Military gloves/POLICE GLOVES/11-47.jpg",
-      "/images/product/Police  Military gloves/POLICE GLOVES/11-48.jpg"
-        ],
-        "testimonials": [
-          {
-            "name": "Ayesha Khan",
-            "comment": "These gloves give excellent grip during workouts. I use them daily and they still look new!",
-            "rating": 5
-          },
-          {
-            "name": "Sara Malik",
-            "comment": "Comfortable and durable. I recommend them for both gym and mechanical work.",
-            "rating": 4
-          },
-          {
-            "name": "Ali Raza",
-            "comment": "Best quality gloves! Super comfortable and long-lasting.",
-            "rating": 5
-          },
-          {
-            "name": "Fatima Noor",
-            "comment": "Really reduces hand fatigue. A must-have for long sessions.",
-            "rating": 5
-          },
-          {
-            "name": "Hassan Iqbal",
-            "comment": "Solid grip, breathable, and excellent protection.",
-            "rating": 6
-          }
-        ]
-      }
-    ],
-    "action": "add to cart",
-    "slug": "POLICE GLOVES"
-  },
-  {
-    "id": "12",
-    "category": "Police / Military gloves",
-    "type": "Police / Military gloves",
-    "name": "Law enforcement Tactical Gloves For Security top quality police gloves with protection",
-    "gender": "women,men",
-    "new": false,
-    "sale": true,
-    "rate": 5,
-    "price": 24,
-    "originPrice": 32,
-    "brand": "adidas",
-    "sold": 17,
-    "quantity": 100,
-    "quantityPurchase": 1,
-    "sizes": ["S", "M", "L", "XL"],
-    "variation": [
-      {
-        "color": "brown",
-        "colorCode": "#840",
-        "colorImage": "/images/product/Police  Military gloves/POLICE GLOVES 2/12-45.jpg",
-        "image": "/images/product/Police  Military gloves/POLICE GLOVES 2/12-45.jpg"
-      },
-      {
-        "color": "grey",
-        "colorCode": "#808080",
-        "colorImage": "/images/product/Police  Military gloves/POLICE GLOVES 2/12-46.jpg",
-        "image": "/images/product/Police  Military gloves/POLICE GLOVES 2/12-46.jpg"
-      }
-    ],
-    "thumbImage": [
-      "/images/product/Police  Military gloves/POLICE GLOVES 2/12-49.jpg",
-      "/images/product/Police  Military gloves/POLICE GLOVES 2/12-51.jpg"
-    ],
-    "images": [
-      "/images/product/Police  Military gloves/POLICE GLOVES 2/12-49.jpg",
-      "/images/product/Police  Military gloves/POLICE GLOVES 2/12-50.jpg",
-      "/images/product/Police  Military gloves/POLICE GLOVES 2/12-51.jpg",
-      "/images/product/Police  Military gloves/POLICE GLOVES 2/12-52.jpg"
-    ],
-    "description": "Stay protected and agile with Law Enforcement Tactical Gloves designed for security professionals. Top quality Police Gloves built for durability and comfort.",
-     "extraSections": [
-      {
-        "title": "Description",
-        "content": [
-          {
-            "value": "Protect your hands with Anti Vibration Resistance Rubber Mechanic Gloves offering superior grip, comfort, and shock absorption for tough jobs every day.Protect your hands with Anti Vibration Resistance Rubber Mechanic Gloves offering superior grip, comfort, and shock absorption for tough jobs every day.Protect your hands with Anti Vibration Resistance Rubber Mechanic Gloves offering superior grip, comfort, and shock absorption for tough jobs every day.Protect your hands with Anti Vibration Resistance Rubber Mechanic Gloves offering superior grip, comfort, and shock absorption for tough jobs every day.Protect your hands with Anti Vibration Resistance Rubber Mechanic Gloves offering superior grip, comfort, and shock absorption for tough jobs every day.Protect your hands with Anti Vibration Resistance Rubber Mechanic Gloves offering superior grip, comfort, and shock absorption for tough jobs every day."
-          }
-        ],
-        "images": [
-          "/images/product/Police  Military gloves/POLICE GLOVES 2/12-50.jpg",
-      "/images/product/Police  Military gloves/POLICE GLOVES 2/12-51.jpg",
-      "/images/product/Police  Military gloves/POLICE GLOVES 2/12-52.jpg"
-        ],
-        "testimonials": [
-          {
-            "name": "Ayesha Khan",
-            "comment": "These gloves give excellent grip during workouts. I use them daily and they still look new!",
-            "rating": 5
-          },
-          {
-            "name": "Sara Malik",
-            "comment": "Comfortable and durable. I recommend them for both gym and mechanical work.",
-            "rating": 4
-          },
-          {
-            "name": "Ali Raza",
-            "comment": "Best quality gloves! Super comfortable and long-lasting.",
-            "rating": 5
-          },
-          {
-            "name": "Fatima Noor",
-            "comment": "Really reduces hand fatigue. A must-have for long sessions.",
-            "rating": 5
-          },
-          {
-            "name": "Hassan Iqbal",
-            "comment": "Solid grip, breathable, and excellent protection.",
-            "rating": 6
-          }
-        ]
-      }
-    ],
-    "action": "add to cart",
-    "slug": "POLICE GLOVES"
-  },
+  
   {
     "id": "13",
-    "category": "Shooting Gloves",
+    "category": "shooting gloves",
     "type": "Shooting Gloves",
     "name": "Top Qualityshooting Index Finger Polyester Binding Neoprene Glove for Fishing gripgrab",
     "gender": "women",
@@ -930,7 +599,7 @@
   },
   {
     "id": "14",
-    "category": "Shooting Gloves",
+    "category": "shooting gloves",
     "type": "Shooting Gloves",
     "name": "Buy Mutiple Size Berlin Style Deerskin Archery Shooting Glove Archery Gloves Top quality",
     "gender": "women",
@@ -1016,7 +685,7 @@
   },
   {
     "id": "15",
-    "category": "Shooting Gloves",
+    "category": "shooting gloves",
     "type": "Shooting Gloves",
     "name": "Buy Work Gloves Flex Extra Grip Touch Screen snug fitting high grip unisex tactical shooting glove",
     "gender": "women",
@@ -1935,7 +1604,7 @@
 
   {
     "id": "29",
-    "category": "Weight Lifting Gloves",
+    "category": "weight lifting gloves",
     "type": "Weight Lifting Gloves",
     "name": "Fintess Unisex Workout Weight Lifting pull up Gym Gloves Indoor multipurpose integrated wrist support glove",
     "gender": "women",
@@ -2021,7 +1690,7 @@
   },
   {
     "id": "30",
-    "category": "Weight Lifting Gloves",
+    "category": "weight lifting gloves",
     "type": "Weight Lifting Gloves",
     "name": "Custom Durable Weight lifting goatskin leather gym gloves best workout gloves",
     "gender": "women",
@@ -2101,7 +1770,7 @@
   },
   {
     "id": "31",
-    "category": "Weight Lifting Gloves",
+    "category": "weight lifting gloves",
     "type": "Weight Lifting Gloves",
     "name": "Callus guard exercise training weight lifting glove Grip Half Finger Movement powerlifting glove",
     "gender": "women",
@@ -2181,7 +1850,7 @@
   },
   {
     "id": "32",
-    "category": "Weight Lifting Gloves",
+    "category": "weight lifting gloves",
     "type": "Weight Lifting Gloves",
     "name": "Wrist Support black Workout Gloves With Wrist Wrap fitness training top quality",
     "gender": "women",
@@ -3674,7 +3343,7 @@
   },
   {
     "id": "51",
-    "category": "Groin Guard",
+    "category": "groin guard",
     "type": "Groin Guard",
     "name": "Hot Sale Boxing Protector Men Groin Support With Fighting Groin Guard Taekwondo Guard",
     "gender": "men",
@@ -3755,7 +3424,7 @@
   },
   {
     "id": "52",
-    "category": "Groin Guard",
+    "category": "groin guard",
     "type": "Groin Guard",
     "name": "Top Quality Boxing Thigh Groin Guard Cup Protector Boxing shock absorbing Muay Thai MMA Training Gears",
     "gender": "men",
@@ -3842,7 +3511,7 @@
   },
   {
     "id": "53",
-    "category": "Groin Guard",
+    "category": "groin guard",
     "type": "Groin Guard",
     "name": "Women Protection Foam Groin Guard Custom MMA Ladies Boxing Groin Protectors Guard",
     "gender": "men",
@@ -3923,7 +3592,7 @@
   },
   {
     "id": "54",
-    "category": "Groin Guard",
+    "category": "groin guard",
     "type": "Groin Guard",
     "name": "Custom Label Kidney Abdomen Foul Protector Boxing Wear MMA Protector Martial Arts Groin Guard Wholesale Boxing Equipment Groin Guard",
     "gender": "men",
@@ -8243,5 +7912,337 @@
     ],
     "action": "add to cart",
     "slug": "3D Embossed Logo Adjustable Outdoor Mesh Snapback Hat For Men & Women"
+  },
+  {
+    "id": "109",
+    "category": "Military Gloves",
+    "type": "Military gloves",
+    "name": "Buy sheepskin Leather hunting Gloves elastic wrist Mittens For Men Women top quality driving glove",
+    "gender": "women",
+    "new": true,
+    "sale": false,
+    "rate": 4,
+    "price": 35,
+    "originPrice": 45,
+    "brand": "gucci",
+    "sold": 12,
+    "quantity": 100,
+    "quantityPurchase": 1,
+    "sizes": ["S", "M", "L", "XL"],
+    "variation": [
+      {
+        "color": "black",
+        "colorCode": "#000",
+        "colorImage": "/images/product/Police  Military gloves/Goat Leather Palm & Back, Elastic Wrist/9-37.jpg",
+        "image": "/images/product/Police  Military gloves/Goat Leather Palm & Back, Elastic Wrist/9-38.jpg"
+      }
+    ],
+    "thumbImage": [
+      "/images/product/Police  Military gloves/Goat Leather Palm & Back, Elastic Wrist/9-37.jpg",
+      "/images/product/Police  Military gloves/Goat Leather Palm & Back, Elastic Wrist/9-38.jpg"
+    ],
+    "images": [
+      "/images/product/Police  Military gloves/Goat Leather Palm & Back, Elastic Wrist/9-37.jpg",
+      "/images/product/Police  Military gloves/Goat Leather Palm & Back, Elastic Wrist/9-38.jpg",
+      "/images/product/Police  Military gloves/Goat Leather Palm & Back, Elastic Wrist/9-39.jpg",
+      "/images/product/Police  Military gloves/Goat Leather Palm & Back, Elastic Wrist/9-40.jpg"
+    ],
+    "description": "Enjoy ultimate comfort and durability with Goat Leather Palm and Back Gloves featuring a flexible elastic wrist for a secure fit during any tough task.",
+     "extraSections": [
+      {
+        "title": "Description",
+        "content": [
+          {
+            "value": "Protect your hands with Anti Vibration Resistance Rubber Mechanic Gloves offering superior grip, comfort, and shock absorption for tough jobs every day.Protect your hands with Anti Vibration Resistance Rubber Mechanic Gloves offering superior grip, comfort, and shock absorption for tough jobs every day.Protect your hands with Anti Vibration Resistance Rubber Mechanic Gloves offering superior grip, comfort, and shock absorption for tough jobs every day.Protect your hands with Anti Vibration Resistance Rubber Mechanic Gloves offering superior grip, comfort, and shock absorption for tough jobs every day.Protect your hands with Anti Vibration Resistance Rubber Mechanic Gloves offering superior grip, comfort, and shock absorption for tough jobs every day.Protect your hands with Anti Vibration Resistance Rubber Mechanic Gloves offering superior grip, comfort, and shock absorption for tough jobs every day."
+          }
+        ],
+        "images": [
+          "/images/product/Police  Military gloves/Goat Leather Palm & Back, Elastic Wrist/9-38.jpg",
+      "/images/product/Police  Military gloves/Goat Leather Palm & Back, Elastic Wrist/9-39.jpg",
+      "/images/product/Police  Military gloves/Goat Leather Palm & Back, Elastic Wrist/9-40.jpg"
+        ],
+        "testimonials": [
+          {
+            "name": "Ayesha Khan",
+            "comment": "These gloves give excellent grip during workouts. I use them daily and they still look new!",
+            "rating": 5
+          },
+          {
+            "name": "Sara Malik",
+            "comment": "Comfortable and durable. I recommend them for both gym and mechanical work.",
+            "rating": 4
+          },
+          {
+            "name": "Ali Raza",
+            "comment": "Best quality gloves! Super comfortable and long-lasting.",
+            "rating": 5
+          },
+          {
+            "name": "Fatima Noor",
+            "comment": "Really reduces hand fatigue. A must-have for long sessions.",
+            "rating": 5
+          },
+          {
+            "name": "Hassan Iqbal",
+            "comment": "Solid grip, breathable, and excellent protection.",
+            "rating": 6
+          }
+        ]
+      }
+    ],
+    "action": "quick shop",
+    "slug": "Goat Leather Palm & Back, Elastic Wrist."
+  },
+  {
+    "id": "110",
+    "category": "Military Gloves",
+    "type": "Military gloves",
+    "name": "Hot selling Men hunting police searching black cowhide leather driving gloves elasticized",
+    "gender": "women",
+    "new": true,
+    "sale": false,
+    "rate": 5,
+    "price": 28,
+    "originPrice": 36,
+    "brand": "hermes",
+    "sold": 12,
+    "quantity": 200,
+    "quantityPurchase": 1,
+    "sizes": ["XS", "S", "M", "L", "XL", "2XL"],
+    "variation": [
+      {
+        "color": "black",
+        "colorCode": "#000",
+        "colorImage": "/images/product/Police  Military gloves/LawPro Leather Gloves/10-41.jpg",
+        "image": "/images/product/Police  Military gloves/LawPro Leather Gloves/10-41.jpg"
+      }
+    ],
+    "thumbImage": [
+      "/images/product/Police  Military gloves/LawPro Leather Gloves/10-41.jpg",
+      "/images/product/Police  Military gloves/LawPro Leather Gloves/10-44.jpg"
+    ],
+    "images": [
+      "/images/product/Police  Military gloves/LawPro Leather Gloves/10-41.jpg",
+      "/images/product/Police  Military gloves/LawPro Leather Gloves/10-42.jpg",
+      "/images/product/Police  Military gloves/LawPro Leather Gloves/10-43.jpg",
+      "/images/product/Police  Military gloves/LawPro Leather Gloves/10-44.jpg"
+    ],
+    "description": "Experience premium protection and lasting comfort with LawPro Leather Gloves designed to deliver strength and flexibility for every hardworking hand.",
+     "extraSections": [
+      {
+        "title": "Description",
+        "content": [
+          {
+            "value": "Protect your hands with Anti Vibration Resistance Rubber Mechanic Gloves offering superior grip, comfort, and shock absorption for tough jobs every day.Protect your hands with Anti Vibration Resistance Rubber Mechanic Gloves offering superior grip, comfort, and shock absorption for tough jobs every day.Protect your hands with Anti Vibration Resistance Rubber Mechanic Gloves offering superior grip, comfort, and shock absorption for tough jobs every day.Protect your hands with Anti Vibration Resistance Rubber Mechanic Gloves offering superior grip, comfort, and shock absorption for tough jobs every day.Protect your hands with Anti Vibration Resistance Rubber Mechanic Gloves offering superior grip, comfort, and shock absorption for tough jobs every day.Protect your hands with Anti Vibration Resistance Rubber Mechanic Gloves offering superior grip, comfort, and shock absorption for tough jobs every day."
+          }
+        ],
+        "images": [
+       "/images/product/Police  Military gloves/LawPro Leather Gloves/10-42.jpg",
+      "/images/product/Police  Military gloves/LawPro Leather Gloves/10-43.jpg",
+      "/images/product/Police  Military gloves/LawPro Leather Gloves/10-44.jpg"
+        ],
+        "testimonials": [
+          {
+            "name": "Ayesha Khan",
+            "comment": "These gloves give excellent grip during workouts. I use them daily and they still look new!",
+            "rating": 5
+          },
+          {
+            "name": "Sara Malik",
+            "comment": "Comfortable and durable. I recommend them for both gym and mechanical work.",
+            "rating": 4
+          },
+          {
+            "name": "Ali Raza",
+            "comment": "Best quality gloves! Super comfortable and long-lasting.",
+            "rating": 5
+          },
+          {
+            "name": "Fatima Noor",
+            "comment": "Really reduces hand fatigue. A must-have for long sessions.",
+            "rating": 5
+          },
+          {
+            "name": "Hassan Iqbal",
+            "comment": "Solid grip, breathable, and excellent protection.",
+            "rating": 6
+          }
+        ]
+      }
+    ],
+    "action": "quick shop",
+    "slug": "LawPro Leather Gloves"
+  },
+  {
+    "id": "111",
+    "category": "Military Gloves",
+    "type": "Military gloves",
+    "name": "Law enforcement Tactical Gloves For Security top quality police gloves with protection",
+    "gender": "women",
+    "new": false,
+    "sale": true,
+    "rate": 4,
+    "price": 32,
+    "originPrice": 40,
+    "brand": "zara",
+    "sold": 14,
+    "quantity": 80,
+    "quantityPurchase": 1,
+    "sizes": ["freesize"],
+    "variation": [
+      {
+        "color": "brown",
+        "colorCode": "#964000",
+        "colorImage": "/images/product/Police  Military gloves/POLICE GLOVES/11-45.jpg",
+        "image": "/images/product/Police  Military gloves/POLICE GLOVES/11-45.jpg"
+      },
+      {
+        "color": "white",
+        "colorCode": "#F6EFDD",
+        "colorImage": "/images/product/Police  Military gloves/POLICE GLOVES/11-46.jpg",
+        "image": "/images/product/Police  Military gloves/POLICE GLOVES/11-46.jpg"
+      }
+    ],
+    "thumbImage": [
+      "/images/product/Police  Military gloves/POLICE GLOVES/11-45.jpg",
+      "/images/product/Police  Military gloves/POLICE GLOVES/11-47.jpg"
+    ],
+    "images": [
+      "/images/product/Police  Military gloves/POLICE GLOVES/11-45.jpg",
+      "/images/product/Police  Military gloves/POLICE GLOVES/11-46.jpg",
+      "/images/product/Police  Military gloves/POLICE GLOVES/11-47.jpg",
+      "/images/product/Police  Military gloves/POLICE GLOVES/11-48.jpg"
+    ],
+    "description": "Stay protected and agile with Law Enforcement Tactical Gloves designed for security professionals. Top quality Police Gloves built for durability and comfort.",
+     "extraSections": [
+      {
+        "title": "Description",
+        "content": [
+          {
+            "value": "Protect your hands with Anti Vibration Resistance Rubber Mechanic Gloves offering superior grip, comfort, and shock absorption for tough jobs every day.Protect your hands with Anti Vibration Resistance Rubber Mechanic Gloves offering superior grip, comfort, and shock absorption for tough jobs every day.Protect your hands with Anti Vibration Resistance Rubber Mechanic Gloves offering superior grip, comfort, and shock absorption for tough jobs every day.Protect your hands with Anti Vibration Resistance Rubber Mechanic Gloves offering superior grip, comfort, and shock absorption for tough jobs every day.Protect your hands with Anti Vibration Resistance Rubber Mechanic Gloves offering superior grip, comfort, and shock absorption for tough jobs every day.Protect your hands with Anti Vibration Resistance Rubber Mechanic Gloves offering superior grip, comfort, and shock absorption for tough jobs every day."
+          }
+        ],
+        "images": [
+           "/images/product/Police  Military gloves/POLICE GLOVES/11-46.jpg",
+      "/images/product/Police  Military gloves/POLICE GLOVES/11-47.jpg",
+      "/images/product/Police  Military gloves/POLICE GLOVES/11-48.jpg"
+        ],
+        "testimonials": [
+          {
+            "name": "Ayesha Khan",
+            "comment": "These gloves give excellent grip during workouts. I use them daily and they still look new!",
+            "rating": 5
+          },
+          {
+            "name": "Sara Malik",
+            "comment": "Comfortable and durable. I recommend them for both gym and mechanical work.",
+            "rating": 4
+          },
+          {
+            "name": "Ali Raza",
+            "comment": "Best quality gloves! Super comfortable and long-lasting.",
+            "rating": 5
+          },
+          {
+            "name": "Fatima Noor",
+            "comment": "Really reduces hand fatigue. A must-have for long sessions.",
+            "rating": 5
+          },
+          {
+            "name": "Hassan Iqbal",
+            "comment": "Solid grip, breathable, and excellent protection.",
+            "rating": 6
+          }
+        ]
+      }
+    ],
+    "action": "add to cart",
+    "slug": "POLICE GLOVES"
+  },
+  {
+    "id": "112",
+    "category": "Military Gloves",
+    "type": "Military gloves",
+    "name": "Law enforcement Tactical Gloves For Security top quality police gloves with protection",
+    "gender": "women,men",
+    "new": false,
+    "sale": true,
+    "rate": 5,
+    "price": 24,
+    "originPrice": 32,
+    "brand": "adidas",
+    "sold": 17,
+    "quantity": 100,
+    "quantityPurchase": 1,
+    "sizes": ["S", "M", "L", "XL"],
+    "variation": [
+      {
+        "color": "brown",
+        "colorCode": "#840",
+        "colorImage": "/images/product/Police  Military gloves/POLICE GLOVES 2/12-45.jpg",
+        "image": "/images/product/Police  Military gloves/POLICE GLOVES 2/12-45.jpg"
+      },
+      {
+        "color": "grey",
+        "colorCode": "#808080",
+        "colorImage": "/images/product/Police  Military gloves/POLICE GLOVES 2/12-46.jpg",
+        "image": "/images/product/Police  Military gloves/POLICE GLOVES 2/12-46.jpg"
+      }
+    ],
+    "thumbImage": [
+      "/images/product/Police  Military gloves/POLICE GLOVES 2/12-49.jpg",
+      "/images/product/Police  Military gloves/POLICE GLOVES 2/12-51.jpg"
+    ],
+    "images": [
+      "/images/product/Police  Military gloves/POLICE GLOVES 2/12-49.jpg",
+      "/images/product/Police  Military gloves/POLICE GLOVES 2/12-50.jpg",
+      "/images/product/Police  Military gloves/POLICE GLOVES 2/12-51.jpg",
+      "/images/product/Police  Military gloves/POLICE GLOVES 2/12-52.jpg"
+    ],
+    "description": "Stay protected and agile with Law Enforcement Tactical Gloves designed for security professionals. Top quality Police Gloves built for durability and comfort.",
+     "extraSections": [
+      {
+        "title": "Description",
+        "content": [
+          {
+            "value": "Protect your hands with Anti Vibration Resistance Rubber Mechanic Gloves offering superior grip, comfort, and shock absorption for tough jobs every day.Protect your hands with Anti Vibration Resistance Rubber Mechanic Gloves offering superior grip, comfort, and shock absorption for tough jobs every day.Protect your hands with Anti Vibration Resistance Rubber Mechanic Gloves offering superior grip, comfort, and shock absorption for tough jobs every day.Protect your hands with Anti Vibration Resistance Rubber Mechanic Gloves offering superior grip, comfort, and shock absorption for tough jobs every day.Protect your hands with Anti Vibration Resistance Rubber Mechanic Gloves offering superior grip, comfort, and shock absorption for tough jobs every day.Protect your hands with Anti Vibration Resistance Rubber Mechanic Gloves offering superior grip, comfort, and shock absorption for tough jobs every day."
+          }
+        ],
+        "images": [
+          "/images/product/Police  Military gloves/POLICE GLOVES 2/12-50.jpg",
+      "/images/product/Police  Military gloves/POLICE GLOVES 2/12-51.jpg",
+      "/images/product/Police  Military gloves/POLICE GLOVES 2/12-52.jpg"
+        ],
+        "testimonials": [
+          {
+            "name": "Ayesha Khan",
+            "comment": "These gloves give excellent grip during workouts. I use them daily and they still look new!",
+            "rating": 5
+          },
+          {
+            "name": "Sara Malik",
+            "comment": "Comfortable and durable. I recommend them for both gym and mechanical work.",
+            "rating": 4
+          },
+          {
+            "name": "Ali Raza",
+            "comment": "Best quality gloves! Super comfortable and long-lasting.",
+            "rating": 5
+          },
+          {
+            "name": "Fatima Noor",
+            "comment": "Really reduces hand fatigue. A must-have for long sessions.",
+            "rating": 5
+          },
+          {
+            "name": "Hassan Iqbal",
+            "comment": "Solid grip, breathable, and excellent protection.",
+            "rating": 6
+          }
+        ]
+      }
+    ],
+    "action": "add to cart",
+    "slug": "POLICE GLOVES"
   }
 ]
