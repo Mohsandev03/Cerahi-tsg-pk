@@ -4,6 +4,7 @@
 import React, { useState, useEffect, useRef } from "react";
 import { ProductType } from "@/type/ProductType";
 import Product from "../Product/Product";
+import ActiveWearBanner from "@/components/Home1/activewearbanner";
 
 interface Props {
   data: Array<ProductType>;
@@ -36,7 +37,7 @@ const ShopBreadCrumb1: React.FC<Props> = ({
   // ✅ Filter only "caps"
   let filteredData = data.filter(
     (product) =>
-      product.category?.toLowerCase() === "mohsan" &&
+      product.category?.toLowerCase() === "working gloves" &&
       (!showOnlySale || product.sale) &&
       (!gender || product.gender === gender) &&
       (!dataType || product.type === dataType)
@@ -92,8 +93,8 @@ const ShopBreadCrumb1: React.FC<Props> = ({
   const currentProducts = sortedData.slice(0, visibleCount);
 
   return (
-    <div className="shop-product breadcrumb1 py-10">
-      <div className="container">
+
+       <div className="container">
         {/* ✅ Header */}
         <div className="filter-heading flex flex-col md:flex-row items-center justify-between gap-5">
           <div className="flex items-center flex-wrap gap-5">
@@ -103,8 +104,7 @@ const ShopBreadCrumb1: React.FC<Props> = ({
                 id="filter-sale"
                 className="border-line"
                 checked={showOnlySale}
-                onChange={() => setShowOnlySale(!showOnlySale)}
-              />
+                onChange={() => setShowOnlySale(!showOnlySale)} />
               <label htmlFor="filter-sale" className="caption1 cursor-pointer">
                 Show only products on sale
               </label>
@@ -117,11 +117,9 @@ const ShopBreadCrumb1: React.FC<Props> = ({
               <button
                 key={tab.id}
                 onClick={() => setSortOption(tab.id)}
-                className={`px-6 py-2 rounded-md font-medium text-sm transition-all ${
-                  sortOption === tab.id
+                className={`px-6 py-2 rounded-md font-medium text-sm transition-all ${sortOption === tab.id
                     ? "bg-[#fdeedc] text-[#39b4ac]"
-                    : "bg-[#e5e5e5] text-gray-700 hover:bg-[#ddd]"
-                }`}
+                    : "bg-[#e5e5e5] text-gray-700 hover:bg-[#ddd]"}`}
               >
                 {tab.label}
               </button>
@@ -153,8 +151,7 @@ const ShopBreadCrumb1: React.FC<Props> = ({
           </div>
         )}
       </div>
-    </div>
-  );
+   );
 };
 
 export default ShopBreadCrumb1;
