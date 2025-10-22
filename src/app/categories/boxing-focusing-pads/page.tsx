@@ -50,7 +50,6 @@ export default function DefaultGrid() {
       <Testimonial data={testimonialData} limit={6} />
       <Instagram />
       <Brand />
-
       <Footer />
     </>
   );
