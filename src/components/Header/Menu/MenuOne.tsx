@@ -511,9 +511,9 @@ const MenuOne: React.FC<Props> = ({ props }) => {
                                   <li>
                                     <a
                                       className="drop-li"
-                                      href="  /categories/police-military-gloves"
+                                      href="  /categories/military-gloves"
                                     >
-                                      Police Military Gloves
+                                      Military Gloves
                                     </a>
                                   </li>
                                 </ul>
@@ -728,9 +728,184 @@ const MenuOne: React.FC<Props> = ({ props }) => {
                                   <li>
                                     <a
                                       className="drop-li"
-                                      href="  /categories/sports-wear"
+                                      href="  /categories/boxing-gloves"
                                     >
-                                      Sports Wear
+                                      Boxing Gloves
+                                    </a>
+                                  </li>
+                                </ul>
+                              </div>
+                              <div className="text-button-uppercase pb-2"></div>
+                              <ul>
+                                <li>
+                                  <div
+                                    onClick={() => handleTypeClick("lighting")}
+                                    className={`link text-secondary duration-300 cursor-pointer`}
+                                  >
+                                    Lighting | Bed Room
+                                  </div>
+                                </li>
+                                <li>
+                                  <div
+                                    onClick={() =>
+                                      handleCategoryClick("furniture")
+                                    }
+                                    className={`link text-secondary duration-300 view-all-btn`}
+                                  >
+                                    View All
+                                  </div>
+                                </li>
+                              </ul>
+                            </div>
+                            <div className="nav-item">
+                              <div className="text-button-uppercase pb-2">
+                                <ul>
+                                  <li>
+                                    <a
+                                      className="drop-li"
+                                      href="  /categories/working-gloves"
+                                    >
+                                      Working Gloves
+                                    </a>
+                                  </li>
+                                </ul>
+                              </div>
+                              <div className="text-button-uppercase pb-2"></div>
+                              <ul>
+                                <li>
+                                  <div
+                                    onClick={() => handleTypeClick("lighting")}
+                                    className={`link text-secondary duration-300 cursor-pointer`}
+                                  >
+                                    Lighting | Bed Room
+                                  </div>
+                                </li>
+                                <li>
+                                  <div
+                                    onClick={() =>
+                                      handleCategoryClick("furniture")
+                                    }
+                                    className={`link text-secondary duration-300 view-all-btn`}
+                                  >
+                                    View All
+                                  </div>
+                                </li>
+                              </ul>
+                            </div>
+                            <div className="nav-item">
+                              <div className="text-button-uppercase pb-2">
+                                <ul>
+                                  <li>
+                                    <a
+                                      className="drop-li"
+                                      href="  /categories/shooting-gloves"
+                                    >
+                                      Shooting gLoves
+                                    </a>
+                                  </li>
+                                </ul>
+                              </div>
+                              <div className="text-button-uppercase pb-2"></div>
+                              <ul>
+                                <li>
+                                  <div
+                                    onClick={() => handleTypeClick("lighting")}
+                                    className={`link text-secondary duration-300 cursor-pointer`}
+                                  >
+                                    Lighting | Bed Room
+                                  </div>
+                                </li>
+                                <li>
+                                  <div
+                                    onClick={() =>
+                                      handleCategoryClick("furniture")
+                                    }
+                                    className={`link text-secondary duration-300 view-all-btn`}
+                                  >
+                                    View All
+                                  </div>
+                                </li>
+                              </ul>
+                            </div>
+                            <div className="nav-item">
+                              <div className="text-button-uppercase pb-2">
+                                <ul>
+                                  <li>
+                                    <a
+                                      className="drop-li"
+                                      href="  /categories/weight-lifting-gloves"
+                                    >
+                                      Weight Liftiing Gloves
+                                    </a>
+                                  </li>
+                                </ul>
+                              </div>
+                              <div className="text-button-uppercase pb-2"></div>
+                              <ul>
+                                <li>
+                                  <div
+                                    onClick={() => handleTypeClick("lighting")}
+                                    className={`link text-secondary duration-300 cursor-pointer`}
+                                  >
+                                    Lighting | Bed Room
+                                  </div>
+                                </li>
+                                <li>
+                                  <div
+                                    onClick={() =>
+                                      handleCategoryClick("furniture")
+                                    }
+                                    className={`link text-secondary duration-300 view-all-btn`}
+                                  >
+                                    View All
+                                  </div>
+                                </li>
+                              </ul>
+                            </div>
+                            <div className="nav-item">
+                              <div className="text-button-uppercase pb-2">
+                                <ul>
+                                  <li>
+                                    <a
+                                      className="drop-li"
+                                      href="  /categories/groin-guard"
+                                    >
+                                      Groin Guard
+                                    </a>
+                                  </li>
+                                </ul>
+                              </div>
+                              <div className="text-button-uppercase pb-2"></div>
+                              <ul>
+                                <li>
+                                  <div
+                                    onClick={() => handleTypeClick("lighting")}
+                                    className={`link text-secondary duration-300 cursor-pointer`}
+                                  >
+                                    Lighting | Bed Room
+                                  </div>
+                                </li>
+                                <li>
+                                  <div
+                                    onClick={() =>
+                                      handleCategoryClick("furniture")
+                                    }
+                                    className={`link text-secondary duration-300 view-all-btn`}
+                                  >
+                                    View All
+                                  </div>
+                                </li>
+                              </ul>
+                            </div>
+                            <div className="nav-item">
+                              <div className="text-button-uppercase pb-2">
+                                <ul>
+                                  <li>
+                                    <a
+                                      className="drop-li"
+                                      href="  /categories/jui-jitsu-uniform"
+                                    >
+                                      Jui Jitsu uniform
                                     </a>
                                   </li>
                                 </ul>
